@@ -6,13 +6,12 @@ sections:
     background: gray
     title: Contact
     content: |-
-      >
+
       **Registered Address:**  
       Harptec Ltd.  
       2 Woodberry Grove,  
       London, N12 0DR,  
       UK  
-      > 
       **Offshore Development Center**  
       Harptec Software Pvt. Ltd.  
       305, Concorde Building,  
@@ -22,7 +21,6 @@ sections:
       Gujarat, India
 
       Email: [ info@harptec.com ](https://) 
-
       Landline: 0208 886 6354  
       Mobile: 07751 720038
     form_id: contactForm
